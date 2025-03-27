@@ -1,10 +1,10 @@
 #  Intervening Doomscrolling
 ![header](/Assets/doompic.jpg)
 # Synopsis
-Doomscrolling, or mindlessly consuming negative content, such as news, has major health consequences for users. As such, understanding the interventions that mitigate the overconsumption of negative content, such as news, is crucial. The project proposes that using emotional-based interventions that expose users to comic or humorous content will help doom scrollers engage less in the consumption of negative news by distracting them and inducing a positive mood in the users. To test the proposition, the present project incorporated user insights (both via interviews and surveys) to design and develop an intervention app. An app is a distraction recommender system (digital nudging) that can potentially guide users toward healthier digital behaviors and prevent excessive consumption of negative content. 
+Doomscrolling, or mindlessly consuming negative content, such as news, has major health consequences for users. As such, understanding the interventions that mitigate the overconsumption of negative content, such as news, is crucial. The project proposes that using emotional-based interventions that expose users to comic or humorous content will help doom scrollers engage less in the consumption of negative news by distracting them and inducing a positive mood in the users. To test the proposition, the present project incorporated user insights (both via interviews and surveys) to design and develop an intervention app. An app is a distraction recommender system (digital nudging) that can potentially guide users toward healthier digital behaviors and prevent excessive consumption of negative content. 
 # Sampling and research procedure
 This study explored the role of emotional interventions via a humorous content recommendation system in changing doomscrolling behaviors among young adults under 35. I chose this target group because they are digital natives and have turned to social media and other online news platforms to check the news instead of offline (Galan, Osserman, Parker, & Taylor, 2019). First, an interview and an online survey were used for user research. Second, an analysis was done on the data gained from user research to identify users' problems, emotions, and needs. Third, the prototype’s design and technical implementation were iterated. Several feedback sessions were held between iterations to complement the prototyping procedure. I conducted five one-to-one interviews and workshops with friends.
-Additionally, I conducted an online survey with 15 participants. I included several multiple-choice and open-ended questions and asked them to answer similar questions as those offline users (5 friends). The figure below illustrates a summary of the sample and the procedure. 
+Additionally, I conducted an online survey with 15 participants. I included several multiple-choice and open-ended questions and asked them to answer similar questions as those offline users (5 friends). The figure below illustrates a summary of the sample and the procedure. 
 ![sampling](/Assets/sampling.png)
 # User Research
 ## User data management
@@ -14,11 +14,11 @@ In compliance with GDPR, for the prototype, a privacy-by-design approach was tak
 The procedure was divided into two parts:
 - 75-minute one-on-one interviews with 5 participants.
 - A 60-minute collaborative workshop where participants were asked to explain their opinions about the two types of comics.
-### The table below shows the convenience sampling group demographics of participants.                            
+### The table below shows the convenience sampling group demographics of participants.                            
 ![sampling2](/Assets/11.png)
 ## Online recruited group procedure
 To prevent potential biases in the user research sampling and gain as many diverse insights as possible, I collected data from 15 participants via an online survey using the same friendship group criteria and questions.
-The table below illustrates the demographics of the online recruited groups. 
+The table below illustrates the demographics of the online recruited groups. 
 ![samle online](/Assets/22.png)
 # Analysis of user research data
 The affinity map demonstrates the core insights from both groups of users (face-to-face interviews and online participants). More specifically, I summarized the participants' answers for each category of questions: main intention or motivation to scroll, feelings during scrolling, hacks, and their needs or reasons for having an intervention app that can interrupt their mindless scrolling habits. The analysis has been done to identify the main users’ problems and find key insights from the user research to apply in the prototype design process. Most participants had experienced negative feelings while scrolling through negative news or content on the Internet, leading them to become even more engaged while scrolling through negative content.
@@ -29,7 +29,7 @@ Overall, the user research provided important insights about users' intentions i
 ![problems](/Assets/44.jpg)
 # Prototyping
 ## First Iteration
-The prototype creation process began with designing three different interventions based on emotion, meditation, and notification to investigate different effects on target users, with ideas extracted from insights from the theoretical framework and analysis from user research. 
+The prototype creation process began with designing three different interventions based on emotion, meditation, and notification to investigate different effects on target users, with ideas extracted from insights from the theoretical framework and analysis from user research. 
 ### Intervention 1: Notification
 ![notification](/Assets/Notification.gif)
 ### Intervention 2: Comic
@@ -98,7 +98,7 @@ Overall, participants perceived the emotional-based intervention (comic) as equa
 The results provided initial evidence that the proposed intervention in the present thesis is perceived equally positively as the other two established interventions. More interestingly, the users who never thought about controlling or using intervention to control their screen time found the proposed intervention (comic) more effective in reducing screen time than the mediation or notification intervention. The reason for such an observation might be that the users who never thought of controlling their screen time were those who spent less time on social media. To test this, I also looked at the time spent on social media reported by users based on their past willingness to control their screen time. As shown in the below figure, users who said they never thought of controlling their screen time have the lowest online content usage. Nevertheless, it would be interesting to explore such a finding in the future to understand the underlying reasons for different groups of users adopting emotional (comic in the present thesis) or time-based (notification, meditation) interventions. 
 ![result2](/Assets/result2.png)
 ## Reflection:
-Despite the limitations of the present research, it offers a novel proposition that recommender systems can not only be used to suggest to users or consumers, for example, products, better choices, or less harmful choices, but recommender systems can also be used as distraction systems. Specifically, it is possible to distract users from maladaptive consumption in the context of unhealthy online media consumption by suggesting comic content (based on their prior self-reported emotions or intentions) that can eventually evoke positive emotions in users and distract them from their harmful habit. Understanding human emotions and behaviors is a complex one. Further exploration of the effectiveness of the proposed emotional-based intervention awaits future research. 
+Despite the limitations of the present research, it offers a novel proposition that recommender systems can not only be used to suggest to users or consumers, for example, products, better choices, or less harmful choices, but recommender systems can also be used as distraction systems. Specifically, it is possible to distract users from maladaptive consumption in the context of unhealthy online media consumption by suggesting comic content (based on their prior self-reported emotions or intentions) that can eventually evoke positive emotions in users and distract them from their harmful habit. Understanding human emotions and behaviors is a complex one. Further exploration of the effectiveness of the proposed emotional-based intervention awaits future research. 
 
 
 
@@ -119,8 +119,7 @@ Despite the limitations of the present research, it offers a novel proposition t
 
 
   
-                                                  
-
+                                                  
 
 
 
